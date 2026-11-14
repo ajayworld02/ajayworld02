@@ -5,11 +5,6 @@
 <img width="100%" alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Initializing+Security+Console...;Building+Defensive+Security+Tools;Exploring+Threat+Intelligence;Python+%7C+Linux+%7C+Cybersecurity;Welcome+to+AJAYWORLD02"/>
 <br/>
 
-<!-- ANIMATED INTRODUCTION -->
-
-
-<br/><br/>
-
 <img alt="Cybersecurity" src="https://img.shields.io/badge/CYBERSECURITY-00FF99?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 <img alt="Blue Team" src="https://img.shields.io/badge/BLUE_TEAM-00E5FF?style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="Security Tools" src="https://img.shields.io/badge/SECURITY_TOOLS-404652?style=for-the-badge&logo=github&logoColor=00FF99"/>
