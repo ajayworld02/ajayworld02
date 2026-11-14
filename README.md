@@ -19,35 +19,6 @@
 ---
 
 ## About Me
-
-```text
-┌─────────────────────────────────────────────┐
-│            SECURITY PROFILE                 │
-├─────────────────────────────────────────────┤
-│                                             │
-│  NAME       : Ajay Gupta                    │
-│  USERNAME   : ajayworld02                   │
-│  DOMAIN     : Cybersecurity                 │
-│  FOCUS      : Defensive Security            │
-│  INTERESTS  : Threat Intelligence           │
-│  TOOLS      : Python | Linux | Git | MISP    │
-│                                             │
-│  STATUS     : [ ONLINE ]                    │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-## Contribution Activity
-
-<div align="center">
-
-<!-- SNAKE ANIMATION - NO VISIBLE SCRIPT HEADING -->
-
-<img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/ajayworld02/ajayworld02/output/github-snake.svg"/>
-
-</div>
-
----
-
 I'm passionate about building defensive security tools, exploring threat intelligence, and developing Python-based security solutions.
 
 My focus areas include:
@@ -57,6 +28,16 @@ My focus areas include:
 - 🐧 Linux Security and System Monitoring
 - 🧠 Cybersecurity Research and Automation
 - ⚡ Building Open-Source Security Tools
+---
+## Contribution Activity
+
+<div align="center">
+
+<!-- SNAKE ANIMATION - NO VISIBLE SCRIPT HEADING -->
+
+<img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/ajayworld02/ajayworld02/output/github-snake.svg"/>
+
+</div>
 
 ---
 
