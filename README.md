@@ -112,10 +112,12 @@ host telemetry and authentication monitoring.
 
 ### `SYSTEM STATUS: ONLINE`
 
-**Explore my repositories and follow my development journey.**
+## `> ./contribution-snake.sh`
 
-[![GitHub](https://img.shields.io/badge/FOLLOW_AJAYWORLD02-00FF99?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ajayworld02)
+<div align="center">
 
-<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00FF99,100:071A12"/>
+![Cyber Contribution Snake](https://raw.githubusercontent.com/ajayworld02/ajayworld02/output/github-snake.svg)
 
 </div>
+
+**Explore my repositories and follow my development journey.**
