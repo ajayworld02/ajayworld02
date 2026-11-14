@@ -36,6 +36,17 @@
 │                                             │
 └─────────────────────────────────────────────┘
 ```
+## Contribution Activity
+
+<div align="center">
+
+<!-- SNAKE ANIMATION - NO VISIBLE SCRIPT HEADING -->
+
+<img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/ajayworld02/ajayworld02/output/github-snake.svg"/>
+
+</div>
+
+---
 
 I'm passionate about building defensive security tools, exploring threat intelligence, and developing Python-based security solutions.
 
@@ -106,17 +117,6 @@ A Linux security-focused lock-screen project featuring host telemetry and authen
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<!-- SNAKE ANIMATION - NO VISIBLE SCRIPT HEADING -->
-
-<img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/ajayworld02/ajayworld02/output/github-snake.svg"/>
-
-</div>
-
----
 
 ## Security Philosophy
 
