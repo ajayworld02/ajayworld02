@@ -21,7 +21,7 @@
 
 ---
 
-## 🛡️ About Me
+## About Me
 
 ```text
 ┌─────────────────────────────────────────────┐
@@ -71,9 +71,9 @@ My focus areas include:
 
 ---
 
-## 🚀 Featured Security Projects
+## Featured Security Projects
 
-### 🛡️ ShieldLock-CyberHUD
+### ShieldLock-CyberHUD
 
 A futuristic Linux security interface featuring a SOC-inspired defensive dashboard, Python, PyQt5 and PAM authentication.
 
@@ -81,7 +81,7 @@ A futuristic Linux security interface featuring a SOC-inspired defensive dashboa
 
 [![Repository](https://img.shields.io/badge/VIEW_PROJECT-00FF99?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ajayworld02/ShieldLock-CyberHUD)
 
-### 🌐 OTX-MISP Integration
+### OTX-MISP Integration
 
 Python-based threat intelligence integration connecting AlienVault OTX with MISP for intelligence sharing and automation.
 
@@ -89,7 +89,7 @@ Python-based threat intelligence integration connecting AlienVault OTX with MISP
 
 [![Repository](https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ajayworld02/otx-misp-integration)
 
-### 🔐 ShieldLock
+### ShieldLock
 
 A Linux security-focused lock-screen project featuring host telemetry and authentication monitoring.
 
@@ -99,7 +99,7 @@ A Linux security-focused lock-screen project featuring host telemetry and authen
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -109,7 +109,7 @@ A Linux security-focused lock-screen project featuring host telemetry and authen
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -121,7 +121,7 @@ A Linux security-focused lock-screen project featuring host telemetry and authen
 
 ---
 
-## 💡 Security Philosophy
+## Security Philosophy
 
 > Security is not a product, but a process.
 
